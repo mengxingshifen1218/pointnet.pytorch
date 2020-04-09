@@ -1,0 +1,125 @@
+2020-04-09 02:03:54,508 - test - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2020-04-09 02:03:54,508 - test - INFO - PARAMETER ...
+2020-04-09 02:03:54,508 - test - INFO - this is a logger info message
+2020-04-09 02:03:54,508 - test - WARNING - this is a logger warning message
+2020-04-09 02:03:54,508 - test - ERROR - this is a logger error message
+2020-04-09 02:03:54,508 - test - CRITICAL - this is a logger critical message
+2020-04-09 02:03:54,509 - test - CRITICAL - <class 'str'>
+2020-04-09 02:03:54,509 - test - CRITICAL - /home/djq/pointnet.pytorch
+2020-04-09 02:03:54,509 - test - CRITICAL - <module 'posixpath' from '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/posixpath.py'>
+2020-04-09 02:04:08,057 - test - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2020-04-09 02:04:08,057 - test - INFO - PARAMETER ...
+2020-04-09 02:04:08,057 - test - INFO - this is a logger info message
+2020-04-09 02:04:08,057 - test - WARNING - this is a logger warning message
+2020-04-09 02:04:08,057 - test - ERROR - this is a logger error message
+2020-04-09 02:04:08,057 - test - CRITICAL - this is a logger critical message
+2020-04-09 02:04:08,057 - test - CRITICAL - <class 'str'>
+2020-04-09 02:04:08,057 - test - CRITICAL - /home/djq/pointnet.pytorch
+2020-04-09 02:04:08,057 - test - CRITICAL - <module 'posixpath' from '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/posixpath.py'>
+2020-04-09 02:04:08,057 - test - CRITICAL - ['/home/djq/pointnet.pytorch/utils', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python36.zip', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/lib-dynload', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/site-packages']
+2020-04-09 20:13:52,500 - test - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2020-04-09 20:13:52,586 - test - INFO - PARAMETER ...
+2020-04-09 20:13:52,586 - test - INFO - this is a logger info message
+2020-04-09 20:13:52,586 - test - WARNING - this is a logger warning message
+2020-04-09 20:13:52,587 - test - ERROR - this is a logger error message
+2020-04-09 20:13:52,587 - test - CRITICAL - this is a logger critical message
+2020-04-09 20:13:52,587 - test - CRITICAL - <class 'str'>
+2020-04-09 20:13:52,587 - test - CRITICAL - /home/djq/pointnet.pytorch
+2020-04-09 20:13:52,588 - test - CRITICAL - <module 'posixpath' from '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/posixpath.py'>
+2020-04-09 20:13:52,588 - test - CRITICAL - ['/home/djq/pointnet.pytorch/utils', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python36.zip', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/lib-dynload', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/site-packages']
+2020-04-09 20:14:08,660 - test - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2020-04-09 20:14:08,660 - test - INFO - PARAMETER ...
+2020-04-09 20:14:08,660 - test - INFO - this is a logger info message
+2020-04-09 20:14:08,660 - test - WARNING - this is a logger warning message
+2020-04-09 20:14:08,660 - test - ERROR - this is a logger error message
+2020-04-09 20:14:08,660 - test - CRITICAL - this is a logger critical message
+2020-04-09 20:14:08,660 - test - CRITICAL - <class 'str'>
+2020-04-09 20:14:08,661 - test - CRITICAL - /home/djq/pointnet.pytorch
+2020-04-09 20:14:08,661 - test - CRITICAL - <module 'posixpath' from '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/posixpath.py'>
+2020-04-09 20:14:08,661 - test - CRITICAL - ['/home/djq/pointnet.pytorch/utils', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python36.zip', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/lib-dynload', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/site-packages']
+2020-04-09 20:14:08,661 - test - CRITICAL - tensor([2., 4.])
+2020-04-09 20:15:11,647 - test - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2020-04-09 20:15:11,647 - test - INFO - PARAMETER ...
+2020-04-09 20:15:11,647 - test - INFO - this is a logger info message
+2020-04-09 20:15:11,647 - test - WARNING - this is a logger warning message
+2020-04-09 20:15:11,647 - test - ERROR - this is a logger error message
+2020-04-09 20:15:11,647 - test - CRITICAL - this is a logger critical message
+2020-04-09 20:15:11,647 - test - CRITICAL - <class 'str'>
+2020-04-09 20:15:11,647 - test - CRITICAL - /home/djq/pointnet.pytorch
+2020-04-09 20:15:11,647 - test - CRITICAL - <module 'posixpath' from '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/posixpath.py'>
+2020-04-09 20:15:11,647 - test - CRITICAL - ['/home/djq/pointnet.pytorch/utils', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python36.zip', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/lib-dynload', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/site-packages']
+2020-04-09 20:15:11,648 - test - CRITICAL - tensor([1, 0], dtype=torch.uint8)
+2020-04-09 20:15:56,512 - test - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2020-04-09 20:15:56,512 - test - INFO - PARAMETER ...
+2020-04-09 20:15:56,512 - test - INFO - this is a logger info message
+2020-04-09 20:15:56,512 - test - WARNING - this is a logger warning message
+2020-04-09 20:15:56,512 - test - ERROR - this is a logger error message
+2020-04-09 20:15:56,512 - test - CRITICAL - this is a logger critical message
+2020-04-09 20:15:56,512 - test - CRITICAL - <class 'str'>
+2020-04-09 20:15:56,512 - test - CRITICAL - /home/djq/pointnet.pytorch
+2020-04-09 20:15:56,512 - test - CRITICAL - <module 'posixpath' from '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/posixpath.py'>
+2020-04-09 20:15:56,513 - test - CRITICAL - ['/home/djq/pointnet.pytorch/utils', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python36.zip', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/lib-dynload', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/site-packages']
+2020-04-09 20:15:56,534 - test - CRITICAL - tensor([1, 0], dtype=torch.uint8)
+2020-04-09 20:15:56,536 - test - CRITICAL - tensor(1)
+2020-04-09 20:16:07,213 - test - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2020-04-09 20:16:07,213 - test - INFO - PARAMETER ...
+2020-04-09 20:16:07,213 - test - INFO - this is a logger info message
+2020-04-09 20:16:07,213 - test - WARNING - this is a logger warning message
+2020-04-09 20:16:07,213 - test - ERROR - this is a logger error message
+2020-04-09 20:16:07,213 - test - CRITICAL - this is a logger critical message
+2020-04-09 20:16:07,213 - test - CRITICAL - <class 'str'>
+2020-04-09 20:16:07,214 - test - CRITICAL - /home/djq/pointnet.pytorch
+2020-04-09 20:16:07,214 - test - CRITICAL - <module 'posixpath' from '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/posixpath.py'>
+2020-04-09 20:16:07,214 - test - CRITICAL - ['/home/djq/pointnet.pytorch/utils', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python36.zip', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/lib-dynload', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/site-packages']
+2020-04-09 20:16:07,234 - test - CRITICAL - tensor([1, 1], dtype=torch.uint8)
+2020-04-09 20:16:07,235 - test - CRITICAL - tensor(2)
+2020-04-09 21:03:45,068 - test - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2020-04-09 21:03:45,068 - test - INFO - PARAMETER ...
+2020-04-09 21:03:45,068 - test - INFO - this is a logger info message
+2020-04-09 21:03:45,068 - test - WARNING - this is a logger warning message
+2020-04-09 21:03:45,068 - test - ERROR - this is a logger error message
+2020-04-09 21:03:45,068 - test - CRITICAL - this is a logger critical message
+2020-04-09 21:03:45,068 - test - CRITICAL - <class 'str'>
+2020-04-09 21:03:45,068 - test - CRITICAL - /home/djq/pointnet.pytorch
+2020-04-09 21:03:45,068 - test - CRITICAL - <module 'posixpath' from '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/posixpath.py'>
+2020-04-09 21:03:45,068 - test - CRITICAL - ['/home/djq/pointnet.pytorch/utils', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python36.zip', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/lib-dynload', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/site-packages']
+2020-04-09 21:05:46,609 - test - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2020-04-09 21:05:46,610 - test - INFO - PARAMETER ...
+2020-04-09 21:05:46,610 - test - INFO - this is a logger info message
+2020-04-09 21:05:46,610 - test - WARNING - this is a logger warning message
+2020-04-09 21:05:46,610 - test - ERROR - this is a logger error message
+2020-04-09 21:05:46,610 - test - CRITICAL - this is a logger critical message
+2020-04-09 21:05:46,610 - test - CRITICAL - <class 'str'>
+2020-04-09 21:05:46,610 - test - CRITICAL - /home/djq/pointnet.pytorch
+2020-04-09 21:05:46,610 - test - CRITICAL - <module 'posixpath' from '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/posixpath.py'>
+2020-04-09 21:05:46,610 - test - CRITICAL - ['/home/djq/pointnet.pytorch/utils', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python36.zip', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/lib-dynload', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/site-packages']
+2020-04-09 21:09:33,954 - test - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2020-04-09 21:09:33,954 - test - INFO - PARAMETER ...
+2020-04-09 21:09:33,954 - test - INFO - this is a logger info message
+2020-04-09 21:09:33,954 - test - WARNING - this is a logger warning message
+2020-04-09 21:09:33,954 - test - ERROR - this is a logger error message
+2020-04-09 21:09:33,954 - test - CRITICAL - this is a logger critical message
+2020-04-09 21:09:33,955 - test - CRITICAL - <class 'str'>
+2020-04-09 21:09:33,955 - test - CRITICAL - /home/djq/pointnet.pytorch
+2020-04-09 21:09:33,955 - test - CRITICAL - <module 'posixpath' from '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/posixpath.py'>
+2020-04-09 21:09:33,955 - test - CRITICAL - ['/home/djq/pointnet.pytorch/utils', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python36.zip', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/lib-dynload', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/site-packages']
+2020-04-09 21:10:20,894 - test - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2020-04-09 21:10:20,895 - test - INFO - PARAMETER ...
+2020-04-09 21:10:20,895 - test - INFO - this is a logger info message
+2020-04-09 21:10:20,895 - test - WARNING - this is a logger warning message
+2020-04-09 21:10:20,895 - test - ERROR - this is a logger error message
+2020-04-09 21:10:20,895 - test - CRITICAL - this is a logger critical message
+2020-04-09 21:10:20,895 - test - CRITICAL - <class 'str'>
+2020-04-09 21:10:20,895 - test - CRITICAL - /home/djq/pointnet.pytorch
+2020-04-09 21:10:20,895 - test - CRITICAL - <module 'posixpath' from '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/posixpath.py'>
+2020-04-09 21:10:20,895 - test - CRITICAL - ['/home/djq/pointnet.pytorch/utils', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python36.zip', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/lib-dynload', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/site-packages']
+2020-04-09 21:17:10,258 - test - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2020-04-09 21:17:10,258 - test - INFO - PARAMETER ...
+2020-04-09 21:17:10,258 - test - INFO - this is a logger info message
+2020-04-09 21:17:10,258 - test - WARNING - this is a logger warning message
+2020-04-09 21:17:10,258 - test - ERROR - this is a logger error message
+2020-04-09 21:17:10,258 - test - CRITICAL - this is a logger critical message
+2020-04-09 21:17:10,258 - test - CRITICAL - <class 'str'>
+2020-04-09 21:17:10,258 - test - CRITICAL - /home/djq/pointnet.pytorch
+2020-04-09 21:17:10,258 - test - CRITICAL - <module 'posixpath' from '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/posixpath.py'>
+2020-04-09 21:17:10,258 - test - CRITICAL - ['/home/djq/pointnet.pytorch/utils', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python36.zip', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/lib-dynload', '/home/djq/anaconda3/envs/pointnet-pytorch-100/lib/python3.6/site-packages']

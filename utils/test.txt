@@ -1,0 +1,252 @@
+2020-04-09 20:19:18,687 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:18,688 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:18,688 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:18,688 - test - INFO - tensor([[4],
+        [0]])
+2020-04-09 20:19:18,689 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:18,689 - test - INFO - tensor([4, 0])
+2020-04-09 20:19:18,690 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:18,796 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:18,796 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:18,796 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:18,801 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:19,600 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:19,600 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:19,600 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:19,600 - test - INFO - tensor([[7],
+        [0]])
+2020-04-09 20:19:19,601 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:19,601 - test - INFO - tensor([7, 0])
+2020-04-09 20:19:19,601 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:19,666 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:19,666 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:19,666 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:19,666 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:19,791 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:19,791 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:19,791 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:19,791 - test - INFO - tensor([[15],
+        [ 9]])
+2020-04-09 20:19:19,792 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:19,792 - test - INFO - tensor([15,  9])
+2020-04-09 20:19:19,792 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:19,849 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:19,849 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:19,849 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:19,849 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:19,980 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:19,980 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:19,981 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:19,981 - test - INFO - tensor([[ 6],
+        [15]])
+2020-04-09 20:19:19,981 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:19,981 - test - INFO - tensor([ 6, 15])
+2020-04-09 20:19:19,982 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:20,042 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:20,043 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:20,043 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:20,043 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:20,168 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:20,168 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:20,168 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:20,168 - test - INFO - tensor([[15],
+        [15]])
+2020-04-09 20:19:20,168 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:20,169 - test - INFO - tensor([15, 15])
+2020-04-09 20:19:20,169 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:20,228 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:20,228 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:20,228 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:20,228 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:20,365 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:20,366 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:20,366 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:20,366 - test - INFO - tensor([[ 4],
+        [12]])
+2020-04-09 20:19:20,366 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:20,366 - test - INFO - tensor([ 4, 12])
+2020-04-09 20:19:20,367 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:20,427 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:20,427 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:20,427 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:20,427 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:20,567 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:20,567 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:20,567 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:20,567 - test - INFO - tensor([[15],
+        [ 7]])
+2020-04-09 20:19:20,568 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:20,568 - test - INFO - tensor([15,  7])
+2020-04-09 20:19:20,568 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:20,628 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:20,628 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:20,628 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:20,628 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:20,751 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:20,751 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:20,751 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:20,751 - test - INFO - tensor([[15],
+        [15]])
+2020-04-09 20:19:20,752 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:20,752 - test - INFO - tensor([15, 15])
+2020-04-09 20:19:20,752 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:20,813 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:20,813 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:20,813 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:20,813 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:20,936 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:20,937 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:20,937 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:20,937 - test - INFO - tensor([[15],
+        [ 0]])
+2020-04-09 20:19:20,937 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:20,937 - test - INFO - tensor([15,  0])
+2020-04-09 20:19:20,938 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:20,998 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:20,998 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:20,999 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:20,999 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:21,128 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:21,128 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:21,128 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:21,128 - test - INFO - tensor([[15],
+        [ 9]])
+2020-04-09 20:19:21,129 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:21,129 - test - INFO - tensor([15,  9])
+2020-04-09 20:19:21,129 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:21,190 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:21,190 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:21,190 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:21,190 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:21,316 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:21,317 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:21,317 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:21,317 - test - INFO - tensor([[15],
+        [15]])
+2020-04-09 20:19:21,317 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:21,317 - test - INFO - tensor([15, 15])
+2020-04-09 20:19:21,318 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:21,374 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:21,375 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:21,375 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:21,375 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:22,068 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:22,069 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:22,069 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:22,069 - test - INFO - tensor([[15],
+        [ 0]])
+2020-04-09 20:19:22,069 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:22,069 - test - INFO - tensor([15,  0])
+2020-04-09 20:19:22,070 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:22,131 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:22,131 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:22,131 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:22,132 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:22,258 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:22,258 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:22,258 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:22,258 - test - INFO - tensor([[ 0],
+        [15]])
+2020-04-09 20:19:22,259 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:22,259 - test - INFO - tensor([ 0, 15])
+2020-04-09 20:19:22,259 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:22,317 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:22,317 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:22,317 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:22,317 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:22,445 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:22,446 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:22,446 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:22,446 - test - INFO - tensor([[4],
+        [0]])
+2020-04-09 20:19:22,446 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:22,446 - test - INFO - tensor([4, 0])
+2020-04-09 20:19:22,447 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:22,504 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:22,504 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:22,504 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:22,504 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:22,634 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:22,634 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:22,635 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:22,635 - test - INFO - tensor([[6],
+        [0]])
+2020-04-09 20:19:22,635 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:22,635 - test - INFO - tensor([6, 0])
+2020-04-09 20:19:22,635 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:22,692 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:22,692 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:22,692 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:22,693 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:22,819 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:22,819 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:22,819 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:22,819 - test - INFO - tensor([[0],
+        [3]])
+2020-04-09 20:19:22,820 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:22,820 - test - INFO - tensor([0, 3])
+2020-04-09 20:19:22,820 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:22,877 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:22,877 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:22,877 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:22,877 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:23,004 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:23,004 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:23,004 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:23,004 - test - INFO - tensor([[4],
+        [1]])
+2020-04-09 20:19:23,005 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:23,005 - test - INFO - tensor([4, 1])
+2020-04-09 20:19:23,005 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:23,062 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:23,062 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:23,062 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:23,063 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:23,189 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:23,189 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:23,189 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:23,189 - test - INFO - tensor([[0],
+        [8]])
+2020-04-09 20:19:23,190 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:23,190 - test - INFO - tensor([0, 8])
+2020-04-09 20:19:23,190 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:23,250 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:23,250 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:23,251 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:23,251 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:23,378 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:23,378 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:23,378 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:23,378 - test - INFO - tensor([[8],
+        [4]])
+2020-04-09 20:19:23,379 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:23,379 - test - INFO - tensor([8, 4])
+2020-04-09 20:19:23,379 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:23,436 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:23,436 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:23,436 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:23,437 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:23,576 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:23,576 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:23,577 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:23,577 - test - INFO - tensor([[15],
+        [ 0]])
+2020-04-09 20:19:23,578 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:23,578 - test - INFO - tensor([15,  0])
+2020-04-09 20:19:23,578 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:23,638 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:23,638 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:23,638 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:23,638 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
+2020-04-09 20:19:23,763 - test - INFO - The data type is:<class 'list'>
+2020-04-09 20:19:23,763 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 2500, 3])
+2020-04-09 20:19:23,763 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 1])
+2020-04-09 20:19:23,763 - test - INFO - tensor([[15],
+        [15]])
+2020-04-09 20:19:23,763 - test - INFO - The target type is:<class 'torch.Tensor'>,shape is:torch.Size([2])
+2020-04-09 20:19:23,764 - test - INFO - tensor([15, 15])
+2020-04-09 20:19:23,764 - test - INFO - The points type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 2500])
+2020-04-09 20:19:23,821 - test - INFO - The pred type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 16])
+2020-04-09 20:19:23,821 - test - INFO - The trans type is:<class 'torch.Tensor'>,shape is:torch.Size([2, 3, 3])
+2020-04-09 20:19:23,821 - test - INFO - The trans_feat type is:<class 'torch.Tensor'>
+2020-04-09 20:19:23,822 - test - INFO - The loss type is:<class 'torch.Tensor'>,shape is:torch.Size([])
